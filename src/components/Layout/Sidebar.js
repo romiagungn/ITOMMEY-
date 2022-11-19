@@ -54,10 +54,10 @@ export function Children() {
                   By Romie Agung Nugraha.
                 </p>
                 <p>
-                  untuk requirment testnya sudah saya sesuaikan denga task yang diberikan, 
+                  untuk requirment testnya sudah saya sesuaikan dengan task yang diberikan
                 </p>
                 <p>
-                  Terimakasih sudah memberikan saya kesempatan untuk mengerjakan test ini, semoga hasilnya sesuai dengan ekspetasi dari penguji. 
+                  Terimakasih sudah memberikan saya kesempatan untuk mengerjakan test ini, semoga hasilnya sesuai dengan kriteria dari perusahhaan. Terimakasih Banyak 
                 </p>
               </div>}>
             </Route>

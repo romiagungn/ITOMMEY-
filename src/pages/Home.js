@@ -86,11 +86,11 @@ const Home = () => {
       if (result.isConfirmed) {
         dispatch(deleteData(values))
         fetchData();
-        Swal.fire(
-          'Deleted!',
-          'Your file has been deleted.',
-          'success'
-        )
+        Swal.fire({
+          icon: 'deleted!',
+          title: 'Yay...',
+          text: 'You have successfully delete a product!'
+        })
       } else if (result.isDenied) {
         Swal.fire('Changes are not saved', '', 'info')
       }
